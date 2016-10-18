@@ -2,3 +2,6 @@
 	To make our files available any time online so that we can access them at any where and at any point of time.
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	So that we can say github that at which point of time i want all my files in my local directory.
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork is a type of clone where you can give credits to the developer....clone is used to bring a repository to your local machine....
+        branches is residing in the local machine where we can use different branches to several users and the main branch can be kept safe.
