@@ -12,5 +12,6 @@
 6)How might using version control make you more confident to make changes that could break something?
 	We can feel very confident and we can rid of getting fear from the mistakes...
 7)Now that you have your workspace set up, what do you want to try using Git for?
+	I will my use my git for publishing my projects globally so i can get valuable comments which may be a good solution for my upgrades.
 
  

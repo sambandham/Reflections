@@ -11,3 +11,4 @@
 6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	So that we can concatenate both the files and representing them makes which branches are merged.
 7)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	The pros is that we do not need to spend much time in merging the files. The const is that sometimes we get errors.
