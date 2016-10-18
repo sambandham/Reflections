@@ -1,2 +1,4 @@
 1) When would you want to use a remote repository rather than keeping all your work local?
-    To make our files available any time online so that we can access them at any where and at any point of time.
+	To make our files available any time online so that we can access them at any where and at any point of time.
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	So that we can say github that at which point of time i want all my files in my local directory.
